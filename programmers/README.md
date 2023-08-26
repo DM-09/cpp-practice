@@ -3,3 +3,4 @@
 
 - <a href='https://github.com/DM-09/cpp-practice/tree/main/programmers/Day1'>Day1 출력</a> <a href='https://school.programmers.co.kr/learn/challenges/training?order=acceptance_desc'>#</a>
 - <a href='https://github.com/DM-09/cpp-practice/tree/main/programmers/Day2'>Day2 출력, 연산</a> <a href='https://school.programmers.co.kr/learn/challenges/training?order=acceptance_desc'>#</a>
+- <a href='https://github.com/DM-09/cpp-practice/tree/main/programmers/Day3'>Day3 연산</a> <a href='https://school.programmers.co.kr/learn/challenges/training?order=acceptance_desc'>#</a>
