@@ -1,4 +1,4 @@
-# Programmers
+# Programmers - Basic
 <a href='https://school.programmers.co.kr/learn/challenges/training?order=recent&languages=cpp&page=1'>프로그래머스(기초 트레이닝)</a>에서 연습한 C++
 
 - <a href='https://github.com/DM-09/cpp-practice/tree/main/programmers/Day1'>Day1 출력</a>
