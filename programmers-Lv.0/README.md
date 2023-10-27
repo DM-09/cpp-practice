@@ -3,3 +3,4 @@
 
 - <a href='https://github.com/DM-09/cpp-practice/tree/main/programmers-Lv.0/Day1'>Day1 사칙연산</a>
 - <a href='https://github.com/DM-09/cpp-practice/tree/main/programmers-Lv.0/Day2'>Day2 사칙연산, 조건문, 배열</a>
+- <a href='https://github.com/DM-09/cpp-practice/tree/main/programmers-Lv.0/Day3'>Day3 사칙연산, 배열, 수학</a>
