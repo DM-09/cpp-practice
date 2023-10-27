@@ -11,3 +11,10 @@ using namespace std;
 #include <algorithm>
 sort(array.begin(), array.end()); // =  list.sort() (In python)
 */
+
+
+/*  
+[베열 정렬]
+#include <algorithm>
+count(array.begin(), array.end(), i); // i는 찾고 싶은거
+*/
