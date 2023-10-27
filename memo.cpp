@@ -14,7 +14,7 @@ sort(array.begin(), array.end()); // =  list.sort() (In python)
 
 
 /*  
-[베열 정렬]
+[배열에서 특정 원소 개수 세기]
 #include <algorithm>
 count(array.begin(), array.end(), i); // i는 찾고 싶은거
 */
