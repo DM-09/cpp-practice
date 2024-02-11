@@ -39,3 +39,11 @@ vec.push_back(1);
 ```
 맨 뒤에 value 추가 <br>
 (파이썬에선 list.append())
+
+### clear( )
+```cpp
+vector<int> vec;
+vec.clear();
+// {}
+```
+리스트 비우기
