@@ -47,3 +47,12 @@ vec.clear();
 // {}
 ```
 리스트 비우기
+
+### size( )
+```cpp
+vector<int> vec = {1};
+vec.size();
+// 1
+```
+리스트 크기(길이) 구하기 <br>
+(파이썬에선 len(list))
